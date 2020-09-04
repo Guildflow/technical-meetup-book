@@ -15,6 +15,8 @@ If you want to follow along I’ll be sharing progress via Guildflow channels, i
 * [Guildflow Blog](https://guildflow.com/blog/) | [RSS](https://guildflow.com/blog/index.xml)
 * [Guildflow Announcements Email Newsletter](https://guildflow.com/newsletter/)  
 
+You can also "watch" this repo if you are into GitHub notifications.
+
 ## About The Author
 
 My name is **Mike Zornek** and I’m a fellow meetup organizer from Philadelphia, PA.
